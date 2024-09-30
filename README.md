@@ -12,13 +12,13 @@ Competitive programming pushes problem-solving skills to the next level by invol
 
 ## Directory Structure
 
-Haskell-For-CP
-    Arrays-and-Lists
-        --currently under developement
-    IO
-        --Input and Ouput operations in Haskell
-    Pattern-Matching
-        --currently under developement
-    Questions-Solns
-        --Solutions to question number via. file name 
-        (search the name on browser to get the problem statement)
+-Haskell-For-CP
+-    Arrays-and-Lists
+-        --currently under developement
+-    IO
+-        --Input and Ouput operations in Haskell
+-    Pattern-Matching
+-        --currently under developement
+-    Questions-Solns
+-        --Solutions to question number via. file name 
+-        (search the name on browser to get the problem statement)
