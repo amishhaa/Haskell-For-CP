@@ -20,5 +20,5 @@ Competitive programming pushes problem-solving skills to the next level by invol
 -    Pattern-Matching
 -        --currently under developement
 -    Questions-Solns
--        --Solutions to question number via. file name 
--        (search the name on browser to get the problem statement)
+        --Solutions to question number via. file name 
+        (search the name on browser to get the problem statement)
